@@ -17,7 +17,6 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Handle form submission here
     console.log("Form submitted:", formData);
   };
 
@@ -34,15 +33,15 @@ const Contact = () => {
             <div className="contact-items">
               <div className="contact-item">
                 <strong>Email:</strong>
-                <span>john.doe@example.com</span>
+                <span>rohitkumararwani6@gmail.com</span>
               </div>
               <div className="contact-item">
                 <strong>Phone:</strong>
-                <span>+1 (555) 123-4567</span>
+                <span>+91 7992460569</span>
               </div>
               <div className="contact-item">
                 <strong>Location:</strong>
-                <span>New York, NY</span>
+                <span>Dhanbad, Jharkhand, India</span>
               </div>
             </div>
           </div>

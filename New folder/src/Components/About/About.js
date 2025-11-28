@@ -9,7 +9,7 @@ const About = () => {
         <div className="about-content">
           <div className="about-text">
             <p>
-              I'm a passionate full-stack developer with 3+ years of experience
+              I'm a passionate full-stack developer with 1+ years of experience
               creating digital solutions. I love turning complex problems into
               simple, beautiful designs.
             </p>
@@ -20,17 +20,17 @@ const About = () => {
             </p>
             <div className="stats">
               <div className="stat">
-                <h3>50+</h3>
+                <h3>20+</h3>
                 <p>Projects Completed</p>
               </div>
               <div className="stat">
-                <h3>3+</h3>
+                <h3>1+</h3>
                 <p>Years Experience</p>
               </div>
-              <div className="stat">
+              {/* <div className="stat">
                 <h3>30+</h3>
                 <p>Happy Clients</p>
-              </div>
+              </div> */}
             </div>
           </div>
           <div className="about-image">
